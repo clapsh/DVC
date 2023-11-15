@@ -1,0 +1,6 @@
+[core]
+    remote = goolge_storage_1
+['remote "local_storage"']
+    url = ../../Storage
+['remote "goolge_storage_1"']
+    url = gdrive://1XN10nue7i9_SK5M3-asW2SeXK2r_H3KY
