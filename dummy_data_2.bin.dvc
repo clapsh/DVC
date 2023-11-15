@@ -1,0 +1,5 @@
+outs:
+- md5: bf8989664479ec961e56ebf59fdeaee0
+  size: 106954752
+  hash: md5
+  path: dummy_data_2.bin
